@@ -1,1 +1,0 @@
-File temporanei.DS_Store*.swp*~Configurazioni e librerie PHPcomposer.jsoncomposer.lock/vendor//vedor/autoload.phpFile che non devono andare online per l'app HTML/JS*.php
